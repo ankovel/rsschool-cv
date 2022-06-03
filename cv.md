@@ -1,6 +1,6 @@
 # Anastasya Kovalchuck
 
-![image](nastya.png)
+[![nastya.png](https://i.postimg.cc/fbMfG1v7/nastya.png)](https://postimg.cc/DSYGsjHm)
 
 # My contacts:
 
