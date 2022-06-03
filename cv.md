@@ -1,6 +1,6 @@
 # Anastasya Kovalchuck
 
-![image](https://ibb.co/w6kfx7M)
+![image](https://postimg.cc/DSYGsjHm)
 
 # My contacts:
 
@@ -18,12 +18,12 @@ I can sometimes slow down a little for better quality of work\
 
 # Professional skills:
 
-- HTML\
-- CSS\
-- SCSS\
-- React\
-- SVG\
-- LESS\
+- HTML
+- CSS
+- SCSS
+- React
+- SVG
+- LESS
 - Sass
 
 # Code example:
@@ -48,13 +48,13 @@ function Y(f) {
 
 [X-box](https://github.com/ankovel/x-box)\
 [Akad](https://github.com/ankovel/Akad)\
-[Matter](https://github.com/ankovel/matter)\
+[Matter](https://github.com/ankovel/matter)
 
 # Courses:
 
-\*Online course HTML+CSS
+- Online course HTML+CSS
 
 # Languages:
 
-- English - А2. Way stage or elementary\
-- Russian - С2. Mastery\
+- English - А2. Way stage or elementary
+- Russian - С2. Mastery
