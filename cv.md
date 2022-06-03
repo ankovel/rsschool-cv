@@ -1,4 +1,6 @@
-# My full name is **_Anastasya Kovalchuck_**.
+# Anastasya Kovalchuck
+
+![image](https://ibb.co/w6kfx7M)
 
 # My contacts:
 
@@ -16,10 +18,43 @@ I can sometimes slow down a little for better quality of work\
 
 # Professional skills:
 
-HTML\
-CSS\
-SCSS\
-React\
-SVG\
-LESS\
-Sass
+- HTML\
+- CSS\
+- SCSS\
+- React\
+- SVG\
+- LESS\
+- Sass
+
+# Code example:
+
+```
+function Y(f) {
+  return (function(h) {
+    return h(h);
+  })(function(h) {
+    return f(function() {
+      return h(h).apply(this, arguments);
+    });
+  });
+}
+```
+
+# Education:
+
+- Grodno State University named after Y. Kupala, Psychology (2015 - 2019)
+
+# Projects :
+
+[X-box](https://github.com/ankovel/x-box)\
+[Akad](https://github.com/ankovel/Akad)\
+[Matter](https://github.com/ankovel/matter)\
+
+# Courses:
+
+\*Online course HTML+CSS
+
+# Languages:
+
+- English - А2. Way stage or elementary\
+- Russian - С2. Mastery\
