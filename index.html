@@ -57,13 +57,13 @@
         <div class="main-content">
           <h1 class="main-title">Code example:</h1>
           <pre class="main-pre">
-            <code class="main-code">
+            <br class="main-code">
               function Y(f) {
                 return (function(h) {
                   return h(h);
                 })(function(h) {
                   return f(function() {
-                    return h(h).apply(this, arguments);
+                    return h(h).apply(this,<br>arguments);
                   });
                 });
               }
