@@ -5,9 +5,8 @@
 }
 body {
   font-family: 'Montserrat', sans-serif;
-  color: #60606e
 }
-.main {
+.wrapper {
   max-width: 1140px;
   margin: 0 auto;
   display: inherit;
@@ -69,9 +68,60 @@ body {
 .header-link {
   margin-right: 50px;
 }
+.header-link:last-child {
+  margin-right: 0;
+}
 .header-icon {
   width: 32px;
 }
-.header-link:last-child {
-  margin-right: 0;
+
+
+
+
+.footer {
+  padding: 30px 0;
+  background-color: #171d26;
+}
+.footer-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  margin-bottom: 35px;
+}
+.footer-rsschool {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rsschool-logo {
+  width: 70px;
+  margin-bottom: 15px;
+  fill: #fff;
+}
+.footer-text {
+  margin-bottom: 10px;
+  color: #FFFACD;
+}
+.footer-link {
+  text-decoration: none;
+  color: #ece4e2;
+}
+.footer-link:hover {
+  text-decoration: underline;
+  color: aqua;
+}
+.footer-github {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.github-logo {
+  width: 50px;
+  margin-bottom: 15px;
+  fill: #fff;
+}
+.footer-copyright {
+  font-size: 14px;
+  text-align: center;
+  color: #ece4e2;
 }
