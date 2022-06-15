@@ -52,12 +52,13 @@ body {
   letter-spacing: 1px;
   color: #E6E6FA
 }
-.header-contact {
+.haader-list {
   display: flex;
   justify-content: space-around;
   margin-top: 40px;
+  list-style: none;
 }
-.header_contact-text {
+.header-item {
   font-size: 14px;
   color: #ece4e2
 }
@@ -65,11 +66,15 @@ body {
   display: flex;
   justify-content: center;
   margin-top: 35px;
+  list-style: none;
 }
-.header-link {
+.icons-item {
   margin-right: 50px;
 }
-.header-link:last-child {
+.header-link {
+  text-decoration: none;
+}
+.header-item:last-child {
   margin-right: 0;
 }
 .header-icon {
