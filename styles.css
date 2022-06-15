@@ -85,16 +85,18 @@ body {
   z-index: 1;
   top: 20px;
   padding: 30px;
-  text-align: center;
   transform: translateX(130px);
   border-radius: 50%;
   border: solid 2px #1f2836;
   background-color: #ece4e2;
   filter: drop-shadow(2px 4px 6px black);
 }
+.nav-list {
+  text-align: center;
+  list-style: none;
+}
 .nav-item {
   line-height: 1.5;
-  list-style: none;
 }
 .nav-link {
   font-size: 18px;
